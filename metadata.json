@@ -1,0 +1,6 @@
+{
+  "name": "CabinetCut",
+  "description": "Parametric cabinet design, cutting-list generator, sheet optimization, and cost calculator for cabinet makers and workshops.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
